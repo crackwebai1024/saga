@@ -1,0 +1,31 @@
+{
+  "common": {
+    "admin_panel": "Administrationsmenü",
+    "logout": "Ausloggen",
+    "is_a_registered": "ist eine eingetragene Marke von Delivery Associates Limited"
+  },
+  "admin": {
+    "country_dashboard": "Länder Dashboard",
+    "admin_area": "Admin-Bereich",
+    "manage_countries":  "Länder verwalten",
+    "manage_users":  "Benutzer verwalten",
+    "manage_dashboard":  "Dashboard verwalten"
+  },
+  "country": {
+    "period": "Berichtszeitraum",
+    "room": "Datenraum",
+    "phrase": "Prioritätenübergreifende Lieferung"
+  },
+  "global": {
+    "global_dashboard": "Globales Dashboard",
+    "global_report": "Global Report",
+    "citizens_served": "Citizens Served",
+    "reporting_period": "Reporting period",
+    "country": "Country",
+    "section": "Priority"
+  },
+  "manageDashboard": {
+    "country": "Land",
+    "custom_fields_have_been_successfully_updated": "Benutzerdefinierte Felder wurden erfolgreich aktualisiert"
+  }
+}

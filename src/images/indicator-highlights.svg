@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="21px" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Highlights</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-buttons-no-text" transform="translate(-20.000000, -13.000000)">
+            <g id="Highlights" transform="translate(20.000000, 13.000000)">
+                <g id="Group-13">
+                    <g id="Group-6" transform="translate(0.000000, 0.685098)" fill="#737A81">
+                        <path d="M20.763297,5.493015 L22.436757,5.493015 C23.361777,5.493015 24.111837,6.242265 24.111837,7.167285 L24.111837,15.815655 C24.111837,16.739865 23.361777,17.489925 22.436757,17.489925 C21.512547,17.489925 20.763297,16.739865 20.763297,15.815655 L20.763297,5.493015 Z" id="Fill-4"></path>
+                        <path d="M18.914715,15.430176 L18.914715,1.798686 C18.914715,0.874476 18.165465,0.124416 17.241255,0.124416 L1.674675,0.124416 C0.749655,0.124416 -0.000405,0.874476 -0.000405,1.798686 L-0.000405,15.431796 C-0.000405,17.645526 1.794555,19.439676 4.008285,19.439676 L22.924215,19.439676 C20.710485,19.439676 18.914715,17.644716 18.914715,15.430176" id="Fill-1"></path>
+                    </g>
+                    <line x1="12.970206" y1="5.519988" x2="5.857596" y2="5.519988" id="Stroke-7" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"></line>
+                    <line x1="12.970206" y1="9.773703" x2="5.857596" y2="9.773703" id="Stroke-9" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"></line>
+                    <line x1="12.970206" y1="14.027418" x2="5.857596" y2="14.027418" id="Stroke-11" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

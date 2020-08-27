@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>OrangeSVG</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Global-Dash-Burkina" transform="translate(-1305.000000, -1240.000000)">
+            <g id="Orange" transform="translate(1305.000000, 1240.000000)">
+                <path d="M1.99868859,23.9807659 C0.895577954,23.9807659 0.000299758324,23.0854877 0.000299758324,21.982377 L0.000299758324,1.99848875 C0.000299758324,0.895378115 0.895577954,9.99194415e-05 1.99868859,9.99194415e-05 L21.9825769,9.99194415e-05 C23.0856875,9.99194415e-05 23.9809657,0.895378115 23.9809657,1.99848875 L23.9809657,21.982377 C23.9809657,23.0854877 23.0856875,23.9807659 21.9825769,23.9807659 L1.99868859,23.9807659 Z" id="Fill-1" fill="#E7A659"></path>
+                <line x1="6.44140671" y1="6.63435115" x2="17.5384599" y2="17.7324035" id="Stroke-4" stroke="#FFFFFF" stroke-width="2.530612" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="17.5389595" y1="6.63435115" x2="6.44190631" y2="17.7324035" id="Stroke-6" stroke="#FFFFFF" stroke-width="2.530612" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

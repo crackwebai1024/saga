@@ -1,0 +1,20 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H40V40H0V0Z" fill="#FFFF00"/>
+<line x1="34.2929" y1="44.2929" x2="42.2929" y2="36.2929" stroke="#00B050" stroke-width="2"/>
+<line x1="29.2929" y1="41.2929" x2="41.2929" y2="29.2929" stroke="#00B050" stroke-width="2"/>
+<line x1="20.2929" y1="42.2929" x2="42.2929" y2="20.2929" stroke="#00B050" stroke-width="2"/>
+<line x1="12.2929" y1="42.2929" x2="41.2929" y2="13.2929" stroke="#00B050" stroke-width="2"/>
+<line x1="2.29289" y1="44.2929" x2="41.2929" y2="5.29289" stroke="#00B050" stroke-width="2"/>
+<line x1="-2.70711" y1="41.2929" x2="41.2929" y2="-2.70711" stroke="#00B050" stroke-width="2"/>
+<line x1="-2.70711" y1="33.2929" x2="34.2929" y2="-3.70711" stroke="#00B050" stroke-width="2"/>
+<line x1="-2.70711" y1="25.2929" x2="26.2929" y2="-3.70711" stroke="#00B050" stroke-width="2"/>
+<line x1="-2.70711" y1="17.2929" x2="16.2929" y2="-1.70711" stroke="#00B050" stroke-width="2"/>
+<line x1="-7.70711" y1="14.2929" x2="11.2929" y2="-4.70711" stroke="#00B050" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'Axiforma';
+  font-weight: 700;
+  src:
+    local('Axiforma Bold'),
+    local('Axiforma-Bold'),
+    url(/fonts/Kastelov-Axiforma-Bold.woff) format('woff'),
+    url(/fonts/Kastelov-Axiforma-Bold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Axiforma';
+  font-style: normal;
+  font-weight: 600;
+  src:
+    local('Axiforma SemiBold'),
+    local('Axiforma-SemiBold'),
+    url(/fonts/Kastelov-Axiforma-SemiBold.woff) format('woff'),
+    url(/fonts/Kastelov-Axiforma-SemiBold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Axiforma';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('Axiforma Medium'),
+    local('Axiforma-Medium'),
+    url(/fonts/Kastelov-Axiforma-Medium.woff) format('woff'),
+    url(/fonts/Kastelov-Axiforma-Medium.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Axiforma';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Axiforma Regular'),
+    local('Axiforma-Regular'),
+    url(/fonts/Kastelov-Axiforma-Regular.woff) format('woff'),
+    url(/fonts/Kastelov-Axiforma-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Axiforma';
+  font-weight: 300;
+  src:
+    local('Axiforma Light'),
+    local('Axiforma-Light'),
+    url(/fonts/Kastelov-Axiforma-Light.woff) format('woff'),
+    url(/fonts/Kastelov-Axiforma-Light.otf) format('opentype');
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  display: flex;
+  height: 100vh;
+}
+
+* {
+  font-family: 'Axiforma', sans-serif !important;
+}
+
+@media print {
+  html {
+    zoom: 50%;
+  }
+
+  #root {
+    display: block;
+    position: relative;
+    height: auto;
+    min-height: 100%;
+    padding-bottom: 150px;
+  }
+
+  body {
+    overflow: visible !important;
+    display: block;
+  }
+
+  html,
+  body {
+    height: auto;
+    min-height: 100%;
+    width: 420mm;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+  }
+
+  @page {
+    size: A4;
+    margin: 11mm 17mm 17mm 17mm;
+  }
+
+  [data-hide-on-print="true"] {
+    display: none !important;
+  }
+}
+
+@media
+  only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 800px),
+  only screen and (-o-min-device-pixel-ratio: 2/1) and (min-width: 800px),
+  only screen and (min-resolution: 192dpi) and (min-width: 800px),
+  only screen and (min-resolution: 2dppx) and (min-width: 800px) {
+  html {
+    zoom: 100%;
+  }
+}
+
+.fixed-body {
+  position: fixed;
+  width: 100%;
+}
+
+.gm-style-iw {
+  padding: 0 !important;
+}
+
+.gm-style-iw .gm-style-iw-d {
+  overflow: auto !important;
+}
+
+.gm-style-iw button.gm-ui-hover-effect {
+  position: absolute;
+  right: 10px !important;
+  top: 10px !important;
+}
+
+.gm-style-iw button.gm-ui-hover-effect > img {
+  width: 19px !important;
+  height: 19px !important;
+}
+
+.infoBox {
+  overflow: visible !important;
+}
